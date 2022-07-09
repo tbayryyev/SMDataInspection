@@ -1,3 +1,3 @@
 # SoilMoistureDataInspection
-An app to visualize NASA’s SMAP (Soil Moisture Active Passive) satellite data in NJ counties
+This App allows the user to visualize soil moisture estimates from the NASA-USDA Enhanced SMAP Global Soil Moisture Data. NASA has launched the Soil Moisture Active and Passive satellite mission (SMAP) to collect key information on soil water content on a global scale. The proposed Google Earth Engine App aims to inspect New Jersey's statewide Soil Moisture temporal evolution. The app generates time series of average soil moisture estimates over a region of interest selected by the user.
 ### Link to app: https://web.stevens.edu/ismart/land_products/njsoilmoisture.html
